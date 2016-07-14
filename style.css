@@ -1,0 +1,37 @@
+header {
+	text-align: center;
+	background-color: rgb(202,42,31);
+	color: #fff;
+	padding: 20px;
+
+}
+
+div {
+padding-top: 10px;	
+}
+
+section {
+	border: 1px solid #333;
+	padding: 10px;
+}
+
+#input{
+	margin-bottom: 10px;
+}
+
+#output {
+	margin-top: 10px;
+}
+
+input {
+	margin-top: 5px;
+}
+
+
+
+
+#hidden{
+	display: none;
+}
+
+
